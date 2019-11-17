@@ -1,0 +1,83 @@
+newmtl Apartment:Apartment_mat1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Apartment_BaseColor.png
+Ni 1.00
+newmtl CUPIC_BAR:tabla
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd barSurface_Color.png
+Ni 1.00
+newmtl Cinema:blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cinema_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl Diner:blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Diner_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl FarmHouse1:FarmHouse_Mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd FarmHouse_BaseColor.png
+Ni 1.00
+newmtl model:mat12
+illum 4
+Kd 1.00 0.92 0.23
+Ka 1.00 0.92 0.23
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl model:mat13
+illum 4
+Kd 1.00 0.60 0.00
+Ka 1.00 0.60 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl model:mat14
+illum 4
+Kd 1.00 0.34 0.13
+Ka 1.00 0.34 0.13
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl model:mat15
+illum 4
+Kd 0.81 0.85 0.86
+Ka 0.81 0.85 0.86
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl model:mat16
+illum 4
+Kd 0.47 0.56 0.61
+Ka 0.47 0.56 0.61
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl model:mat22
+illum 4
+Kd 0.62 0.62 0.62
+Ka 0.62 0.62 0.62
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl model:mat27
+illum 4
+Kd 0.92 0.95 0.94
+Ka 1.00 0.65 0.67
+Tf 0.40 0.40 0.40
+Ni 1.50
+Ks 1.00 1.00 1.00
+Ns 300.00
